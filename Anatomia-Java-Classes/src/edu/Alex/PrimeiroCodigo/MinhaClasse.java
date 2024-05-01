@@ -1,3 +1,5 @@
+package edu.Alex.PrimeiroCodigo;
+
 public class MinhaClasse {
     public static void main(String[] args) {
 
