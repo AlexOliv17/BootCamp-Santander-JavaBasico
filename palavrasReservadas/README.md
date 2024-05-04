@@ -115,3 +115,9 @@
 👉 const: Não utilize para declarar constantes; use public static final
 
 👉 goto: não implementada na linguagem Java por ser considerada prejudicial
+
+## Tabela de escopos para cada palavra: 🤳✨
+
+![alt text](image.png)
+
+![alt text](image-1.png)
