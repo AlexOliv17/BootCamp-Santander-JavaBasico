@@ -1,4 +1,4 @@
-public class CaixaEletronico {
+public class CondicionaisSimples {
     public static void main(String[] args) {
         double valor = 25;
         double valorSolicitado = 26;
